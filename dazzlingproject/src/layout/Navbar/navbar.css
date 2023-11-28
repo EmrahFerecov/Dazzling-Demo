@@ -1,0 +1,9 @@
+.navbar1{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 900px;
+    border: 1px solid gray;
+    padding-top: 20px;
+    text-decoration: none;
+    background-color: green;
+}
